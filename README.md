@@ -1,5 +1,6 @@
+## नमस्ते 🙏
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/dheeraj-2000/dheeraj-2000/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/dheeraj-2000/dheeraj-2000/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
 
@@ -29,6 +30,7 @@ or <a href="mailto:dheeraj12000@gmail.com"><b>email</b></a> me
 
 ---
 [![HitCount](http://hits.dwyl.com/dheeraj-2000/dheeraj-2000.svg)](http://hits.dwyl.com/dheeraj-2000/dheeraj-2000)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dheeraj-2000.dheeraj-2000) 
 
 <i>Follow me around the web:</i><br>
 
@@ -36,7 +38,7 @@ or <a href="mailto:dheeraj12000@gmail.com"><b>email</b></a> me
   <a target="_blank" href="https://www.instagram.com/high__on._.life/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/dheerubhai2000/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
 
-
+[![](https://img.shields.io/badge/LinkedIn-dheeraj-2000-blue)](https://www.linkedin.com/in/dheeraj-2000/)
 <a href="https://www.linkedin.com/in/dheeraj-2000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/high__on._.life/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/dheerubhai2000/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
