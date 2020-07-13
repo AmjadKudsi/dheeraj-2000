@@ -1,5 +1,5 @@
 ## नमस्ते 🙏
-
+<div align="center">
 [![](https://img.shields.io/badge/LinkedIn-dheeraj-2000-blue)](https://www.linkedin.com/in/dheeraj-2000/)
 <a href="https://www.linkedin.com/in/dheeraj-2000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/high__on._.life/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -15,7 +15,7 @@
 
 
 
-<div align="center">
+
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
@@ -35,7 +35,7 @@ or <a href="mailto:dheeraj12000@gmail.com"><b>email</b></a> me
 [![HitCount](http://hits.dwyl.com/dheeraj-2000/dheeraj-2000.svg)](http://hits.dwyl.com/dheeraj-2000/dheeraj-2000)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dheeraj-2000.dheeraj-2000) 
 
-<i>Follow me around the web:</i>
+
 
 
 
